@@ -1,8 +1,9 @@
-Ruby - Typical Directory
+# THP_Ruby_Typical_Directory
 ========================
 
 ### Set up instructions
 ========================
+
 _** GIT **_
 - Run "git init" command
 - Create the corresponding repo on GitHub
@@ -29,4 +30,3 @@ _** FILES **_
 
 ### Credit
 ==========
-# THP_Ruby_Typical_Directory
