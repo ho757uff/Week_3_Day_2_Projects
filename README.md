@@ -1,8 +1,9 @@
-# THP_Ruby_Typical_Directory
-========================
+# Week_3_Day_2_Projects
 
-### Set up instructions
-========================
+
+
+## Set up instructions
+______________________
 
 #### _** GIT **_
 - Run "git init" command
@@ -25,13 +26,11 @@
 - Create any *_spec.rb in "spec" directory
 
 
-### Concept
-============
+## Concept
 
-### Troubleshooting
-====================
 
-### Credit
-==========
-# Week_3_Day_2_Projects
-# Week_3_Day_2_Projects
+## Troubleshooting
+
+
+## Credit
+
